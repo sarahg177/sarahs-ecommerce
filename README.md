@@ -1,4 +1,4 @@
-
+[![Build Status](https://travis-ci.org/sarahg177/sarahs-ecommerce.svg?branch=master)](https://travis-ci.org/sarahg177/sarahs-ecommerce)
      ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
     '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
     |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \  :|  `--, 
